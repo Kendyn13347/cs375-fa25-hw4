@@ -1,7 +1,5 @@
 # cs375-fa25-hw4
 
-# cs375-fa25-hw4
-
 ## Overview
 This project contains solutions to exercises and a program written in C. The files included are:
 
